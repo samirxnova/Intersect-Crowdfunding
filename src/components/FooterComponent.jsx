@@ -4,12 +4,12 @@ export default function FooterComponent(props) {
   return (
     <div className="footer">
       <div className="footerContainer">
-        <div className="trademarkSection">DeFindstarter © 2022</div>
+        <div className="trademarkSection">DeFindstarter © 2024</div>
         <div className="externalLinks">
           <div className="linkWrapper">
             <div className="icon">
               <a
-                href="https://twitter.com/crypto_gaijin"
+                href="https://x.com/SamirXNOVA"
                 className="twitter-icon"
                 target="_blank"
                 rel="noreferrer"
@@ -19,7 +19,7 @@ export default function FooterComponent(props) {
             </div>
             <div className="icon">
               <a
-                href="https://github.com/hyp3r5pace"
+                href="https://github.com/samirxnova"
                 className="github-icon"
                 target="_blank"
                 rel="noreferrer"
@@ -30,7 +30,7 @@ export default function FooterComponent(props) {
             <div className="icon">
               <div className="insta-icon-bg">
                 <a
-                  href="https://www.instagram.com/sayan.kar2000/"
+                  href="https://www.instagram.com"
                   className="insta-icon"
                   target="_blank"
                   rel="noreferrer"
